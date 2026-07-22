@@ -41,10 +41,6 @@
 <img src="https://skillicons.dev/icons?i=css" />
 </a>
 
-<a href="https://www.python.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=python" />
-</a>
-
 <a href="https://www.mysql.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=mysql" />
 </a>
@@ -78,10 +74,6 @@
 <img src="https://skillicons.dev/icons?i=vscode" />
 </a>
 
-<a href="https://www.figma.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=figma" />
-</a>
-
 </p>
 
 ---
@@ -100,11 +92,13 @@
 
 ---
 
-## 🌎 contáctame
+## 🌎 Contáctame
 
 <p align="center">
 
-<a href="mailto:jorgemagzul10@gmail.com">Enviar correo</a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=jorgemagzul10@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
 <a href="https://github.com/jmagzul-2024029" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
