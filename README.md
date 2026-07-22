@@ -113,5 +113,5 @@
 ---
 
 <p align="center">
-✨ Gracias por visitar mi perfil ✨
+Espero mi perfil haya sido de tu agrado, no dudes en contactarme.😉
 </p>
