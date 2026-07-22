@@ -25,24 +25,62 @@
 ### Lenguajes
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,html,css,python,mysql" />
+<a href="https://www.java.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=java" />
+</a>
+
+<a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank">
+<img src="https://skillicons.dev/icons?i=js" />
+</a>
+
+<a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank">
+<img src="https://skillicons.dev/icons?i=html" />
+</a>
+
+<a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank">
+<img src="https://skillicons.dev/icons?i=css" />
+</a>
+
+<a href="https://www.python.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=python" />
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=mysql" />
+</a>
 </p>
 
 ### Frameworks y Herramientas
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,vite,git,github,vscode,figma" />
-</p>
 
----
+<a href="https://react.dev/" target="_blank">
+<img src="https://skillicons.dev/icons?i=react" />
+</a>
 
-## 📊 Estadísticas
+<a href="https://nodejs.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=nodejs" />
+</a>
 
-<p align="center">
+<a href="https://vite.dev/" target="_blank">
+<img src="https://skillicons.dev/icons?i=vite" />
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jmagzul-2024029&show_icons=true&theme=tokyonight&hide_border=true"/>
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=git" />
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmagzul-2024029&layout=compact&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://code.visualstudio.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=vscode" />
+</a>
+
+<a href="https://www.figma.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=figma" />
+</a>
 
 </p>
 
@@ -62,20 +100,18 @@
 
 ---
 
-## 🌎 Conecta conmigo
+## 🌎 contáctame
 
 <p align="center">
 
-<a href="mailto:jorgemagzul10@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:jorgemagzul10@gmail.com">Enviar correo</a>
+
+<a href="https://github.com/jmagzul-2024029" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://github.com/jmagzul-2024029">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="www.linkedin.com/in/jorge-magzul-953925423">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/jorge-magzul-953925423/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
 </a>
 
 </p>
@@ -84,8 +120,4 @@
 
 <p align="center">
 ✨ Gracias por visitar mi perfil ✨
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=jmagzul-2024029&label=Visitas&color=0e75b6&style=flat"/>
 </p>
