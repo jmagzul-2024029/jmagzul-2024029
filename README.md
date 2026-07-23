@@ -1,12 +1,8 @@
 <h1 align="center">👋 Hola, soy Jorge Magzul</h1>
 
 <h3 align="center">
-💻 Estudiante de Informática | Desarrollador Full Stack en formación | Guatemala 🇬🇹
+💻 Estudiante de Informática | Desarrollador Full Stack en formación | Guatemala
 </h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Bienvenido+a+mi+perfil+de+GitHub!;Desarrollador+Web+y+Java;Siempre+aprendiendo+nuevas+tecnologías;Construyendo+proyectos+con+pasión" />
-</p>
 
 ---
 
